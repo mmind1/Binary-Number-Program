@@ -1,6 +1,3 @@
-// Code must include a comment with name
-// My name: Matt Mindur
-
 public class BinaryNumber {
 
 		private int data[];
